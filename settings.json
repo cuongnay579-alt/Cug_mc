@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Cug_mc",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Cug_mc.aternos.me",
+    "port": 18085,
+    "version": "1.21.5"
   },
   "position": {
     "enabled": true,
@@ -24,16 +24,6 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 500,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
-      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
